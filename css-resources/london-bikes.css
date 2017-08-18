@@ -108,7 +108,7 @@ body {
     margin: 0;
     position: relative;
     z-index: 1;
-    bottom: 200px;
+    bottom: -280px;
     padding-left: 15px;
     color: white;
     display: block;
